@@ -1,3 +1,4 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.pusher.channels_flutter">
+          xmlns:tools="http://schemas.android.com/tools"
+          android:namespace="com.pusher.channels_flutter">
 </manifest>
